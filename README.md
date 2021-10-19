@@ -1,6 +1,7 @@
 #### Игра "Волшебный шар" Magic 8 ball
 
 Консольная игра написана на языке Ruby.
+
 Описание Волшебного Шара : 
 (https://ru.wikipedia.org/wiki/Magic_8_ball)
 
